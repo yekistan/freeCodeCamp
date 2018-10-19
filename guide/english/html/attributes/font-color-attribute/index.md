@@ -21,7 +21,7 @@ A color can also be specified using a 'hex code' or an 'rgb code', instead of us
 ```html
 <html>
   <body>
-   <font color="green">Font color example using color attribute</font>
+   <font color="yellow">Font color example using color attribute</font>
  </body>
 </html>
 ```
@@ -34,6 +34,7 @@ A color can also be specified using a 'hex code' or an 'rgb code', instead of us
 </html>
 ```
 3. RGB attribute
+### Note:RGB is a color profile and means Red,Green,Blue.
 ```html
 <html>
   <body>
